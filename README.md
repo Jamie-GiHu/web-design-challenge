@@ -25,34 +25,34 @@ Small Screen
 #### Landing Page
 
 Large Screen
-![Landing page large screen](WebVisualizations/visualizations/Landing_Page_Large.jpeg)
+![Landing page large screen](WebVisualizations/visualizations/gifs/Landing_Page_Large.gif)
 
 Small Screen
-![Landing page small screen](WebVisualizations/visualizations/Landing_Page_Small.jpeg)
+![Landing page small screen](WebVisualizations/visualizations/gifs/Landing_Page_Small.gif)
 
 #### Visualization Pages
 
 Large Screen
-![Visualization page large screen](WebVisualizations/visualizations/Visualization_Page_Large.png)
+![Visualization page large screen](WebVisualizations/visualizations/gifs/Visualization_Page_Large.gif)
 
 Small Screen
-![Visualization page small screen](WebVisualizations/visualizations/Visualization_Page_Small.png)
+![Visualization page small screen](WebVisualizations/visualizations/gifs/Visualization_Page_Small.gif)
 
 #### Comparison Page
 
 Large Screen
-![Comparison page large screen](WebVisualizations/visualizations/Comparison_Page_Large.png)
+![Comparison page large screen](WebVisualizations/visualizations/gifs/Comparison_Page_Large.gif)
 
 Small Screen
-![Comparison page small screen](WebVisualizations/visualizations/Comparison_Page_Small.png)
+![Comparison page small screen](WebVisualizations/visualizations/gifs/Comparison_Page_Small.gif)
 
 #### Data Page
 
 Large Screen
-![Data page large screen](WebVisualizations/visualizations/Data_Page_Large.png)
+![Data page large screen](WebVisualizations/visualizations/gifs/Data_Page_Large.gif)
 
 Small Screen
-![Data page small screen](WebVisualizations/visualizations/Data_Page_Small.png)
+![Data page small screen](WebVisualizations/visualizations/gifs/Data_Page_Small.gif)
 
 
 
